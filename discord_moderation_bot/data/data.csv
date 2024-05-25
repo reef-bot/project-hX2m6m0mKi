@@ -1,0 +1,6 @@
+# data.csv
+
+user_id, username, warnings
+1234567890, example_user1, 2
+2345678901, example_user2, 1
+3456789012, example_user3, 0
